@@ -14,4 +14,9 @@ El layout de las funcionalidades se irá actualizando clase a clase y está disp
 * Listar tareas
 * Eliminar tarea
 
+### Clase 16
+* Modificar tarea
+* Inicio de sesión
+* Filtros
+
 
